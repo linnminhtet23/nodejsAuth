@@ -1,0 +1,14 @@
+email 
+file upload
+sorting
+route body checking
+
+cors / security / npm packge
+
+git github
+
+server / heroku
+
+chat app
+
+req.file
